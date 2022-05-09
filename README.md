@@ -13,8 +13,8 @@ Análise
     
 Gramática da linguagem:
 
-Σ   ☞ Alfabeto da linguagem
-n   ☞ Passos, etapas
-ω   ☞ Axioma, condição inicial
-δ   ☞ Angulo
-pX  ☞ Regras de produção
+Σ   ☞ Alfabeto da linguagem  
+n   ☞ Passos, etapas  
+ω   ☞ Axioma, condição inicial  
+δ   ☞ Angulo  
+pX  ☞ Regras de produção  
